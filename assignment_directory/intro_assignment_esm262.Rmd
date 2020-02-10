@@ -1,0 +1,16 @@
+---
+title: 'Assignment #1'
+author: "Hannah Garcia-Wickstrum"
+date: "2/10/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+1: one paragraph that describes why you are taking this course
+  I have decided to pursue the environmental data science focus while at Bren. I do not (yet) consider myself a great data scientist, but I would like to challenge myself. I am looking forward to learning how R and data analysis is applicable in real environmental situations. I would like to be able to use R in my future career to be able to contribute to reproducable and open science. 
+
+2: one paragraph that describes your data science background
+  I took Allison's Introduction to Environmental Data Science course last fall and really enjoyed it. I had never used RStudio before so there was a bit of a learning curve. It was a class that I was pretty nervous about (heard some things from the second years) but it was actually the class that I did the best in. I was suprised at how much I enjoyed it. Other than Allison's course, I have done some vegetation analysis in excel for my previous employer. Excel is great and accessible but I've since realized it is hard to replicate the analysis that has been performed. 
